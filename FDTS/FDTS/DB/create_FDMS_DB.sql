@@ -1,0 +1,45 @@
+DROP DATABASE IF EXISTS FDMS
+
+GO
+CREATE DATABASE FDMS
+GO
+
+USE FDMS
+
+DROP TABLE IF EXISTS [Aircraft Tails]
+CREATE TABLE [Aircraft Tails]
+(
+	ID INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+	aircraftTail VARCHAR(10) NOT NULL UNIQUE,
+	dateCreated DATETIME NOT NULL,
+	dateUpdated DATETIME,
+	dateDeleted DATETIME,
+);
+
+DROP TABLE IF EXISTS [G-Force Parameters]
+CREATE TABLE [G-Force Parameters]
+(
+	ID INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+	accelX FLOAT NOT NULL,
+	accelY FLOAT NOT NULL,
+	accelZ FLOAT NOT NULL,
+	[weight] FLOAT NOT NULL,
+	aircraftTailID INT NOT NULL CONSTRAINT FK_GForce_Aircraft_Tail_ID FOREIGN KEY (aircraftTailID) REFERENCES dbo.[Aircraft Tails](ID),
+	dateCreated DATETIME NOT NULL,
+	dateUpdated DATETIME,
+	dateDeleted DATETIME,
+);
+
+DROP TABLE IF EXISTS [Altitude Parameters]
+CREATE TABLE [Altitude Parameters]
+(
+	ID INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
+	altitude FLOAT NOT NULL,
+	pitch FLOAT NOT NULL,
+	bank FLOAT NOT NULL,
+	aircraftTailID INT NOT NULL CONSTRAINT FK_Aircraft_Tail_ID FOREIGN KEY (aircraftTailID) REFERENCES dbo.[Aircraft Tails](ID),
+	dateCreated DATETIME NOT NULL,
+	dateUpdated DATETIME,
+	dateDeleted DATETIME,
+);
+

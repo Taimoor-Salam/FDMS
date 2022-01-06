@@ -1,0 +1,135 @@
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\bin\Debug\FDTS.exe.config
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\bin\Debug\FDTS.exe
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\bin\Debug\FDTS.pdb
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\bin\Debug\MaterialDesignColors.dll
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\bin\Debug\MaterialDesignThemes.Wpf.dll
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\bin\Debug\MaterialDesignColors.pdb
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\bin\Debug\MaterialDesignThemes.Wpf.xml
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDMS.csproj.AssemblyReference.cache
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\Database.g.cs
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\LiveData.g.cs
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\MainWindow.g.cs
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\App.g.cs
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDTS_MarkupCompile.cache
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDTS_MarkupCompile.lref
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\App.baml
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\Database.baml
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\LiveData.baml
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\MainWindow.baml
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDTS.g.resources
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDTS.Properties.Resources.resources
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDMS.csproj.GenerateResource.cache
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDMS.csproj.CoreCompileInputs.cache
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDTS.exe
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDTS.pdb
+B:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDTS_Content.g.cs
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\bin\Debug\FDTS.exe.config
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\bin\Debug\FDTS.exe
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\bin\Debug\FDTS.pdb
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\bin\Debug\MaterialDesignColors.dll
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\bin\Debug\MaterialDesignColors.pdb
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDMS.csproj.AssemblyReference.cache
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDMS.csproj.SuggestedBindingRedirects.cache
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\Database.g.cs
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\LiveData.g.cs
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\MainWindow.g.cs
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\App.g.cs
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDTS_Content.g.cs
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDTS_MarkupCompile.cache
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDTS_MarkupCompile.lref
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\App.baml
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\Database.baml
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\LiveData.baml
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\MainWindow.baml
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDTS.g.resources
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDTS.Properties.Resources.resources
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDMS.csproj.GenerateResource.cache
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDMS.csproj.CoreCompileInputs.cache
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDMS.csproj.CopyComplete
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDTS.exe
+D:\Documents\SET PROGRAM\SET Semester 5\Advanced Software Quality\Group Project\Milestone 2\FULL PROGRAM\FDTS\FDTS\obj\Debug\FDTS.pdb
+C:\Git\FDMS\FDTS\FDTS\bin\Debug\FDTS.exe.config
+C:\Git\FDMS\FDTS\FDTS\bin\Debug\FDTS.exe
+C:\Git\FDMS\FDTS\FDTS\bin\Debug\FDTS.pdb
+C:\Git\FDMS\FDTS\FDTS\bin\Debug\MaterialDesignColors.dll
+C:\Git\FDMS\FDTS\FDTS\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Git\FDMS\FDTS\FDTS\bin\Debug\MaterialDesignColors.pdb
+C:\Git\FDMS\FDTS\FDTS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Git\FDMS\FDTS\FDTS\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Git\FDMS\FDTS\FDTS\obj\Debug\FDMS.csprojAssemblyReference.cache
+C:\Git\FDMS\FDTS\FDTS\obj\Debug\Database.g.cs
+C:\Git\FDMS\FDTS\FDTS\obj\Debug\LiveData.g.cs
+C:\Git\FDMS\FDTS\FDTS\obj\Debug\MainWindow.g.cs
+C:\Git\FDMS\FDTS\FDTS\obj\Debug\App.g.cs
+C:\Git\FDMS\FDTS\FDTS\obj\Debug\FDTS_Content.g.cs
+C:\Git\FDMS\FDTS\FDTS\obj\Debug\FDTS_MarkupCompile.cache
+C:\Git\FDMS\FDTS\FDTS\obj\Debug\FDTS_MarkupCompile.lref
+C:\Git\FDMS\FDTS\FDTS\obj\Debug\App.baml
+C:\Git\FDMS\FDTS\FDTS\obj\Debug\Database.baml
+C:\Git\FDMS\FDTS\FDTS\obj\Debug\LiveData.baml
+C:\Git\FDMS\FDTS\FDTS\obj\Debug\MainWindow.baml
+C:\Git\FDMS\FDTS\FDTS\obj\Debug\FDTS.g.resources
+C:\Git\FDMS\FDTS\FDTS\obj\Debug\FDTS.Properties.Resources.resources
+C:\Git\FDMS\FDTS\FDTS\obj\Debug\FDMS.csproj.GenerateResource.cache
+C:\Git\FDMS\FDTS\FDTS\obj\Debug\FDMS.csproj.CoreCompileInputs.cache
+C:\Git\FDMS\FDTS\FDTS\obj\Debug\FDMS.csproj.CopyComplete
+C:\Git\FDMS\FDTS\FDTS\obj\Debug\FDTS.exe
+C:\Git\FDMS\FDTS\FDTS\obj\Debug\FDTS.pdb
+C:\Git\FDMS1\FDTS\FDTS\bin\Debug\FDTS.exe.config
+C:\Git\FDMS1\FDTS\FDTS\bin\Debug\FDTS.exe
+C:\Git\FDMS1\FDTS\FDTS\bin\Debug\FDTS.pdb
+C:\Git\FDMS1\FDTS\FDTS\bin\Debug\MaterialDesignColors.dll
+C:\Git\FDMS1\FDTS\FDTS\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Git\FDMS1\FDTS\FDTS\bin\Debug\MaterialDesignColors.pdb
+C:\Git\FDMS1\FDTS\FDTS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Git\FDMS1\FDTS\FDTS\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Git\FDMS1\FDTS\FDTS\obj\Debug\FDMS.csprojAssemblyReference.cache
+C:\Git\FDMS1\FDTS\FDTS\obj\Debug\Database.g.cs
+C:\Git\FDMS1\FDTS\FDTS\obj\Debug\LiveData.g.cs
+C:\Git\FDMS1\FDTS\FDTS\obj\Debug\MainWindow.g.cs
+C:\Git\FDMS1\FDTS\FDTS\obj\Debug\App.g.cs
+C:\Git\FDMS1\FDTS\FDTS\obj\Debug\FDTS_Content.g.cs
+C:\Git\FDMS1\FDTS\FDTS\obj\Debug\FDTS_MarkupCompile.cache
+C:\Git\FDMS1\FDTS\FDTS\obj\Debug\FDTS_MarkupCompile.lref
+C:\Git\FDMS1\FDTS\FDTS\obj\Debug\App.baml
+C:\Git\FDMS1\FDTS\FDTS\obj\Debug\Database.baml
+C:\Git\FDMS1\FDTS\FDTS\obj\Debug\LiveData.baml
+C:\Git\FDMS1\FDTS\FDTS\obj\Debug\MainWindow.baml
+C:\Git\FDMS1\FDTS\FDTS\obj\Debug\FDTS.g.resources
+C:\Git\FDMS1\FDTS\FDTS\obj\Debug\FDTS.Properties.Resources.resources
+C:\Git\FDMS1\FDTS\FDTS\obj\Debug\FDMS.csproj.GenerateResource.cache
+C:\Git\FDMS1\FDTS\FDTS\obj\Debug\FDMS.csproj.CoreCompileInputs.cache
+C:\Git\FDMS1\FDTS\FDTS\obj\Debug\FDMS.csproj.CopyComplete
+C:\Git\FDMS1\FDTS\FDTS\obj\Debug\FDTS.exe
+C:\Git\FDMS1\FDTS\FDTS\obj\Debug\FDTS.pdb
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\bin\Debug\FDTS.exe.config
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\bin\Debug\FDTS.exe
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\bin\Debug\FDTS.pdb
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\bin\Debug\MaterialDesignColors.dll
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\obj\Debug\FDMS.csprojAssemblyReference.cache
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\obj\Debug\Database.g.cs
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\obj\Debug\LiveData.g.cs
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\obj\Debug\MainWindow.g.cs
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\obj\Debug\App.g.cs
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\obj\Debug\FDTS_Content.g.cs
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\obj\Debug\FDTS_MarkupCompile.cache
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\obj\Debug\FDTS_MarkupCompile.lref
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\obj\Debug\App.baml
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\obj\Debug\Database.baml
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\obj\Debug\LiveData.baml
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\obj\Debug\MainWindow.baml
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\obj\Debug\FDTS.g.resources
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\obj\Debug\FDTS.Properties.Resources.resources
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\obj\Debug\FDMS.csproj.GenerateResource.cache
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\obj\Debug\FDMS.csproj.CoreCompileInputs.cache
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\obj\Debug\FDMS.csproj.CopyComplete
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\obj\Debug\FDTS.exe
+C:\Users\Taimoor\Documents\GitHub\FDMS\FDTS\FDTS\obj\Debug\FDTS.pdb
